@@ -1,8 +1,7 @@
-# KAP360_Straighten_Horizon
-Straightening out the horizon in 360-degree Kite Aerial Photos
+Straightening out the horizon in 4pi-steradian Kite Aerial Photos
 
 The python code dm4.py attempts to straighten out wavy horizon in
-360-degree Kite Aerial Photos, based on user input. 
+4pi-steradia Kite Aerial Photos, based on user input. 
 
 The code uses the pyEquirectRotate library from 
 https://github.com/BlueHorn07/pyEquirectRotate. However Wheaton CS seniors 
