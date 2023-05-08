@@ -6,7 +6,7 @@ camera is freely hanging, is evident.
 
 ![example input image](examples/R0011125.jpg)
 
-Once this image is run through the code dm4.py, the output is shown below:
+Once this image is run through the code [dm4.py](dm4.py), the output is shown below:
 
 ![output image](examples/R0011125_f.jpg)
 
