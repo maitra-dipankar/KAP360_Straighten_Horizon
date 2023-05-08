@@ -1,4 +1,4 @@
-#Straightening out the horizon in 4pi-steradian Kite Aerial Photos
+Straightening out the horizon in 4pi-steradian Kite Aerial Photos
 
 The python code dm4.py attempts to straighten out wavy horizon in
 4pi-steradian Kite Aerial Photos, based on user input. 
