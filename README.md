@@ -1,7 +1,11 @@
 Straightening out the horizon in 4pi-steradian Kite Aerial Photos
 
-The python code dm4.py attempts to straighten out wavy horizon in
-4pi-steradian Kite Aerial Photos, based on user input. 
+The python code dm4.py attempts to straighten out wavy horizon in 4pi-steradian Kite Aerial Photos, based on user input. E.g., an equirectangular 
+input image from the 360-degree (4pi-steradian really) camera hanging upside-down from the kite line is shown below. The wavy horizon, because the 
+camera is freely hanging, is evident
+
+![example input image](examples/R0011125.jpg)
+
 
 The code uses the pyEquirectRotate library from 
 https://github.com/BlueHorn07/pyEquirectRotate. However Wheaton CS seniors 
